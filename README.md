@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudransh-03&label=Profile%20views&color=0e75b6&style=flat" alt="rudransh-03" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack, Competitive Programming**
+- 🌱 I’m currently learning **MERN Stack Web Development, Competitive Programming**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rudransh-03](https://github.com/Rudransh-03)
 
@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1OO5oXr6sXi4K1kxLzLyNP6yrrkUGcO1x/view?usp=sharing](https://drive.google.com/file/d/1OO5oXr6sXi4K1kxLzLyNP6yrrkUGcO1x/view?usp=sharing)
 
-- ⚡ Fun fact **Just sitting and thinking about you goals won't make you achieve them**
+- ⚡ Fun fact **Just sitting and thinking about your goals won't achieve them**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
