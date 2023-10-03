@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudransh-03&label=Profile%20views&color=0e75b6&style=flat" alt="rudransh-03" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack Web Development, Competitive Programming**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rudransh-03](https://github.com/Rudransh-03)
 
