@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rudranshtyagi2002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OO5oXr6sXi4K1kxLzLyNP6yrrkUGcO1x/view?usp=sharing](https://drive.google.com/file/d/1OO5oXr6sXi4K1kxLzLyNP6yrrkUGcO1x/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1LAGZKn38--O7r7TyNULSW84pMBXEomcg/view?usp=sharing](https://drive.google.com/file/d/1LAGZKn38--O7r7TyNULSW84pMBXEomcg/view?usp=sharing)
 
 - ⚡ Fun fact **Just sitting and thinking about your goals won't achieve them**
 
@@ -26,6 +26,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudransh-03&show_icons=true&locale=en&layout=compact" alt="rudransh-03" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rudransh-03&show_icons=true&locale=en" alt="rudransh-03" /></p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rudransh-03&" alt="rudransh-03" /></p> -->
